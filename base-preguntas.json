@@ -394,7 +394,7 @@
     {
         "categoria": "Teoria Tecnologia de la Informacion",
         "pregunta": "¿Cuál es la longitud en bits de una dirección IPv4?",
-        "respuesta": "a) 2 bits",
+        "respuesta": "a) 32 bits",
         "incorrecta1": "b) 64 bits",
         "incorrecta2": "c) 128 bits",
         "incorrecta3": "d) 256 bits"
