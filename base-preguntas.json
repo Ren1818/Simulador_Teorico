@@ -1,0 +1,562 @@
+[
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Durante una auditoría de seguridad de TI, se descubre que varios empleados han estado compartiendo sus contraseñas con compañeros de trabajo. ¿Cuál de las siguientes es la acción más apropiada que debe tomar el auditor?",
+        "respuesta": "c) Notificar a la gerencia sobre el incumplimiento de las políticas de seguridad y sugerir capacitación en concientización ",
+        "incorrecta1": "a) Ignorar el hallazgo, ya que compartir contraseñas es una práctica común en la organización",
+        "incorrecta2": "b) Recomendar la implementación inmediata de un sistema de autenticación biométrica",
+        "incorrecta3": "d) Revocar los accesos de todos los empleados involucrados y exigir un cambio de contraseña"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Al revisar los registros de acceso a una base de datos crítica, se observa que un usuario administrativo ha estado accediendo a la base de datos fuera del horario laboral normal. ¿Qué enfoque debe adoptar el auditor para investigar más a fondo esta situación?",
+        "respuesta": "b) Entrevistar al usuario administrativo para obtener una explicación de los accesos inusuales",
+        "incorrecta1": "a) Asumir que el acceso fuera de horario es justificado y no realizar más investigaciones",
+        "incorrecta2": "c) Recomendar la suspensión inmediata de los privilegios de acceso del usuario administrativo",
+        "incorrecta3": "d) Notificar a las autoridades legales sobre una posible actividad maliciosa"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Durante una auditoría de cumplimiento, se identifica que la organización no ha realizado evaluaciones de riesgo de seguridad de la información en los últimos dos años. ¿Cuál de las siguientes recomendaciones es la más adecuada para abordar esta deficiencia?",
+        "respuesta": "c) Aconsejar a la organización que establezca un proceso regular de evaluación de riesgos y lo documente en sus políticas",
+        "incorrecta1": "a) Sugerir que la organización posponga las evaluaciones de riesgo hasta el próximo ciclo de auditoría",
+        "incorrecta2": "b) Recomendar la contratación de un consultor externo para realizar evaluaciones de riesgo inmediatas",
+        "incorrecta3": "d) Indicar que las evaluaciones de riesgo son opcionales y no afectan el cumplimiento normativo"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Al examinar la política de gestión de incidentes de seguridad de la información de una organización, se observa que no se han definido claramente los roles y responsabilidades del personal clave. ¿Qué recomendación debe hacer el auditor para mejorar la política?",
+        "respuesta": "c) Aconsejar a la organización que revise y actualice la política, definiendo claramente los roles y responsabilidades",
+        "incorrecta1": "a) Sugerir la eliminación de la política de gestión de incidentes y confiar en la experiencia del personal ",
+        "incorrecta2": "b) Recomendar la asignación inmediata de roles y responsabilidades al personal sin una revisión adicional",
+        "incorrecta3": "d) Indicar que la falta de claridad en los roles y responsabilidades no tiene un impacto significativo en la gestión de incidentes"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Durante una prueba de penetración como parte de una auditoría de seguridad, se descubre una vulnerabilidad crítica en el servidor web de la organización. ¿Cuál es el curso de acción más apropiado que debe seguir el auditor?",
+        "respuesta": "c) Notificar inmediatamente a la organización sobre la vulnerabilidad y proporcionar recomendaciones para su corrección ",
+        "incorrecta1": "a) Explotar la vulnerabilidad para demostrar su impacto y luego notificar a la organización ",
+        "incorrecta2": "b) Ignorar la vulnerabilidad, ya que los servidores web suelen tener vulnerabilidades conocidas ",
+        "incorrecta3": "d) Publicar los detalles de la vulnerabilidad en foros de seguridad en línea para obtener opiniones adicionales"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Al revisar los registros de acceso físico al centro de datos, se observa que un ex empleado ha ingresado a las instalaciones después de la terminación de su empleo. ¿Qué acción debe tomar el auditor en respuesta a este hallazgo? ",
+        "respuesta": "b) Notificar a la gerencia sobre el incidente y recomendar una revisión inmediata de los  procedimientos de control de acceso físico ",
+        "incorrecta1": "a) No hacer nada, ya que el ex empleado probablemente tenía una razón válida para ingresar",
+        "incorrecta2": "c) Contactar al ex empleado directamente para obtener una explicación de su visita al centro de datos",
+        "incorrecta3": "d) Eliminar todos los registros de acceso del ex empleado para evitar confusiones futuras"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Durante una auditoría de la gestión de cambios de TI, se identifica que no se siguen consistentemente los procedimientos establecidos para la aprobación y documentación de cambios. ¿Cuál de las siguientes recomendaciones es la más adecuada para abordar esta deficiencia?",
+        "respuesta": "c) Aconsejar a la organización que refuerce la adherencia a los procedimientos existentes y proporcione capacitación al personal relevante",
+        "incorrecta1": "a) Sugerir que la organización abandone por completo los procedimientos de gestión de cambios",
+        "incorrecta2": "b) Recomendar que se hagan excepciones a los procedimientos de gestión de cambios en casos de emergencia",
+        "incorrecta3": "d) Indicar que la falta de consistencia en los procedimientos de gestión de cambios es aceptable siempre que los cambios sean exitosos"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " Al evaluar los controles de seguridad de la red, se descubre que varios dispositivos de red críticos tienen configuraciones predeterminadas de fábrica y contraseñas débiles. ¿Qué enfoque debe adoptar el auditor para abordar esta situación?",
+        "respuesta": "c) Notificar a la gerencia sobre los riesgos asociados y sugerir un plan de acción para asegurar adecuadamente los dispositivos de red",
+        "incorrecta1": "a) No informar sobre los dispositivos con configuraciones predeterminadas, ya que es una práctica común en muchas organizaciones",
+        "incorrecta2": "b) Recomendar la desconexión inmediata de todos los dispositivos de red afectados hasta que se corrijan las configuraciones",
+        "incorrecta3": "d) ~Intentar adivinar las contraseñas débiles para demostrar la gravedad del problema"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Durante una revisión de la política de clasificación de datos, se observa que no se han definido claramente los criterios para determinar la criticidad de los activos de información. ¿Qué recomendación debe hacer el auditor para mejorar la política?",
+        "respuesta": "c) Aconsejar a la organización que establezca criterios claros y documentados para la  clasificación de datos basados en su sensibilidad y criticidad",
+        "incorrecta1": "a) Sugerir que la organización elimine por completo la política de clasificación de datos",
+        "incorrecta2": "b) Recomendar que se asigne arbitrariamente la clasificación de datos a los activos de información",
+        "incorrecta3": "d) Indicar que la falta de criterios de clasificación claros no tiene un impacto significativo en la seguridad de la información"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Al realizar una auditoría de cumplimiento de la normativa de protección de datos, se identifica que la organización no ha designado formalmente a un responsable de la protección de datos (DPO). ¿Cuál de las siguientes acciones es la más apropiada para abordar esta deficiencia? ",
+        "respuesta": "c) Aconsejar a la organización que evalúe la necesidad de un DPO y designe formalmente a una persona calificada para el rol",
+        "incorrecta1": "a) Ignorar la falta de un DPO designado, ya que muchas organizaciones operan sin uno",
+        "incorrecta2": "b) Recomendar que se designe inmediatamente a un empleado existente como DPO sin considerar sus calificaciones",
+        "incorrecta3": "d) Sugerir que la organización externalice por completo la función de protección de datos a un tercero"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "11 Se dispone de una mochila que soporta un peso máximo de 15 Kg y de 3 objetos: A, B y C. El objeto A con un peso de 5 Kg y da una ganancia de 4 dólares, el objeto B con un peso de 10 Kg y da una ganancia de 5 dólares, el objeto C con un peso de 5 Kg y da una ganancia de 3 dólares. Indicar los objetos que se deben colocar en la mochila para obtener la máxima ganancia, aplicando el método de búsqueda informada vuelta atrás:",
+        "respuesta": "\\{A, B\\}",
+        "incorrecta1": "a) \\{A, B, C\\}",
+        "incorrecta2": "b) \\{B, C\\}",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "12 Se dispone de una mochila que soporta un peso máximo de 10 Kg y de 3 objetos: A, B y C. El objeto A con un peso de 3 Kg y da una ganancia de 10 dólares, el objeto B con un peso de 4 Kg y da una ganancia de 5 dólares, el objeto C con un peso de 6 Kg y da una ganancia de 15 dólares. Indicar los objetos que se deben colocar en la mochila para obtener la máxima ganancia, aplicando el método de búsqueda informada vuelta atrás:",
+        "respuesta": "a) \\{A, C\\}",
+        "incorrecta1": "b) \\{B, C\\}",
+        "incorrecta2": "c) \\{A, B, C\\}",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Aplicando el método de búsqueda no informada en amplitud, indique las operaciones que permitan la solución del puzzle, partiendo del estado origen 3142 al estado final 4312 y considerando que sólo se pueden hacer operaciones con las piezas que están continuas, por lo que existirán las operaciones: Izquierda (hacia la izquierda del nodo), Centro (hacia el centro del nodo) y Derecha (hacia la derecha del nodo):",
+        "respuesta": "c) Centro - Izquierda.",
+        "incorrecta1": "a) Derecha - Centro - Derecha - Centro.",
+        "incorrecta2": "b) Izquierda - Centro - Izquierda - Centro.",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Aplicando el método de búsqueda no informada en profundidad, indique las operaciones que permitan la solución del puzzle, partiendo del estado origen 231 al estado final 123 y considerando que sólo se pueden hacer operaciones con las piezas que están continuas, por lo que existirán las operaciones: Izquierda (hacia la izquierda del nodo) y Derecha (hacia la derecha del nodo):",
+        "respuesta": "b) Izquierda - Derecha - Izquierda - Derecha.",
+        "incorrecta1": "a) Derecha - Izquierda - Derecha - Izquierda.",
+        "incorrecta2": "c) Derecha - Izquierda.",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Aplicando el método de búsqueda no informada en amplitud, indique las operaciones que permitan la solución del puzzle, partiendo del estado origen 213 al estado final 321 y considerando que sólo se pueden hacer operaciones con las piezas que están continuas, por lo que existirán las operaciones: Izquierda (hacia la izquierda del nodo), Centro (hacia el centro del nodo) y Derecha (hacia la derecha del nodo):",
+        "respuesta": "b) Derecha - Izquierda.",
+        "incorrecta1": "a) Izquierda - Derecha - Izquierda - Derecha.",
+        "incorrecta2": "c) Derecha - Izquierda - Derecha - Izquierda.",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Aplicando el método de búsqueda no informada en amplitud, indique las operaciones que permitan la solución del puzzle, partiendo del estado origen 132 al estado final 231 y considerando que sólo se pueden hacer operaciones con las piezas que están continuas, por lo que existirán las operaciones: Izquierda (hacia la izquierda del nodo) y Derecha (hacia la derecha del nodo):",
+        "respuesta": "a)Izquierda - Derecha - Izquierda.",
+        "incorrecta1": "b) Derecha - Izquierda.",
+        "incorrecta2": "c) Izquierda - Derecha.",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Aplicando el método de búsqueda no informada en profundidad, indique las operaciones que permitan la solución del puzzle, partiendo del estado origen 2413 al estado final 2134 y considerando que sólo se pueden hacer operaciones con las piezas que están continuas, por lo que existirán las operaciones: Izquierda (hacia la izquierda del nodo), Centro (hacia el centro del nodo) y Derecha (hacia la derecha del nodo):",
+        "respuesta": "a) Izquierda - Centro - Izquierda - Centro - Izquierda - Derecha.",
+        "incorrecta1": "b) Centro - Derecha.",
+        "incorrecta2": "c) Derecha - Izquierda.",
+        "incorrecta3": "d) Ninguna es correcta."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "18 ¿Cuál es el comando para actualizar la columna 'salario' a 5000 para el empleado con ID 3 en la tabla 'empleados'?",
+        "respuesta": "a) UPDATE empleados SET salario\\=5000 WHERE ID\\=3;",
+        "incorrecta1": "b) MODIFY empleados SET salario\\=5000 WHERE ID\\=3;",
+        "incorrecta2": "c) CHANGE empleados SET salario\\=5000 WHERE ID\\=3;",
+        "incorrecta3": "d) REPLACE empleados SET salario\\=5000 WHERE ID\\=3;"
+    },
+    {
+        "categoria": "19 Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cómo se elimina el registro del estudiante con ID 5 de la tabla 'estudiantes'?",
+        "respuesta": "a) DELETE FROM estudiantes WHERE ID\\=5;",
+        "incorrecta1": "b) REMOVE FROM estudiantes WHERE ID\\=5;",
+        "incorrecta2": "c) UPDATE estudiantes DELETE WHERE ID\\=5;",
+        "incorrecta3": "d) ERASE FROM estudiantes WHERE ID\\=5;"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cómo se pueden recuperar los datos ordenados por la columna Apellidos?",
+        "respuesta": "c) Instrucción SELECT con una cláusula ORDER BY",
+        "incorrecta1": "a) Instrucción CREATE VIEW con una cláusula ORDER BY",
+        "incorrecta2": "b) Instrucción SELECT con una cláusula GROUP BY",
+        "incorrecta3": "d) Instrucción CREATE VIEW que incluya la función GETDATE"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué definición de columna crea con éxito una columna?",
+        "respuesta": "a) Presupuesto money CHECK(Presupuesto BETWEEN 100 AND 500)",
+        "incorrecta1": "b) Presupuesto money > 100",
+        "incorrecta2": "c) Presupuesto money(5,2) DEFAULT 200",
+        "incorrecta3": "d) Presupuesto money CHECK(BETWEEN 100 AND 500)"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "22 Se dispone de una tabla Producto vacía que se ha creado con la siguiente instrucción: CREATE TABLE Producto( ProdID int PRIMARY KEY, CategoriaID int NOT NULL, Descripcion varchar(35), Cantidad int CHECK(Cantidad> 0 AND Cantidad <\\=50)) ¿Qué instrucción agrega con éxito datos en Producto?",
+        "respuesta": "d) INSERT INTO Producto VALUES(101, 1, 'caramelos', 25)",
+        "incorrecta1": "a) INSERT INTO Producto(Descripcion, Cantidad) VALUES('caramelos', 15)",
+        "incorrecta2": "b) INSERT INTO Producto VALUES(101,NULL, 'caramelos', 25)",
+        "incorrecta3": "c) INSERT INTO Producto (ProdID, CategoriaID, Descripcion, Cantidad) VALUES (101, 2, 'Oval Wall Mirror',65)" 
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "23 ¿Cuál es el comando SQL para actualizar el campo 'telefono' de la tabla 'clientes' donde el campo 'id' sea igual a 1?",
+        "respuesta": "a) UPDATE clientes SET telefono \\= '555-1234' WHERE id \\= 1",
+        "incorrecta1": "b) UPDATE clientes WHERE id \\= 1 SET telefono \\= '555-1234'",
+        "incorrecta2": "c) UPDATE telefono FROM clientes WHERE id \\= 1",
+        "incorrecta3": "d) UPDATE clientes SET telefono \\= '555-1234'"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cómo podrías buscar todos los productos en una tabla productos cuyo nombre tenga exactamente cinco letras?",
+        "respuesta": "b) SELECT nombre FROM productos WHERE nombre LIKE '_ _ _ _ _';",
+        "incorrecta1": "a) SELECT nombre FROM productos WHERE nombre LIKE '%%%%%';",
+        "incorrecta2": "c) SELECT nombre FROM productos WHERE nombre LIKE '_ _ _ _';",
+        "incorrecta3": "d) SELECT nombre FROM productos WHERE nombre LIKE '%';"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué sentencia SQL usarías para cambiar el nombre de un producto y aumentar su precio al mismo tiempo? ",
+        "respuesta": "a) UPDATE productos SET nombre \\= 'NuevoNombre', precio \\= precio + 10 WHERE id \\=  1;",
+        "incorrecta1": "b) UPDATE productos SET nombre \\= 'NuevoNombre', precio \\= precio - 10 WHERE id \\= 1;",
+        "incorrecta2": "c) UPDATE productos SET 'NuevoNombre', precio + 10 WHERE id \\= 1;",
+        "incorrecta3": "d) UPDATE productos SET nombre \\= 'NuevoNombre' AND  precio \\= precio + 10 WHERE id \\= 1;"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cómo encontrarías los códigos de producto que comienzan con dos caracteres cualesquiera seguidos de '99' y luego cualquier cantidad de caracteres? SELECT codigo FROM productos WHERE codigo LIKE '99%';",
+        "respuesta": "c) SELECT codigo FROM productos WHERE codigo LIKE '_ _99%';",
+        "incorrecta1": "a) SELECT codigo FROM productos WHERE codigo LIKE '_99%';",
+        "incorrecta2": "b) SELECT codigo FROM productos WHERE codigo LIKE '%99%';"
+        
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cómo podrías insertar múltiples registros en la tabla productos en una sola sentencia?",
+        "respuesta": "a) INSERT INTO productos (nombre, precio) VALUES ('Producto1', 10), ('Producto2', 20);",
+        "incorrecta1": "b) INSERT INTO productos (nombre, precio) MULTIPLE ('Producto1', 10), ('Producto2', 20);",
+        "incorrecta2": "c) INSERT INTO productos SET nombre \\= 'Producto1', precio \\= 10;",
+        "incorrecta3": "d) UPDATE productos SET nombre \\= 'Producto1', precio \\= 10;"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es el propósito principal de un IDE? ",
+        "respuesta": "d) Facilitar el desarrollo de software",
+        "incorrecta1": "a) Compilar código",
+        "incorrecta2": "b) Ejecutar código",
+        "incorrecta3": "c) Depurar código"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué se entiende por recursividad en programación? ",
+        "respuesta": "b) Una función que se llama a sí misma",
+        "incorrecta1": "a) Un bucle que se repite infinitamente",
+        "incorrecta2": "c) La capacidad de un lenguaje para interpretar código",
+        "incorrecta3": "d) Un tipo de estructura de datos"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué función cumplen los compiladores en el proceso de desarrollo de software?",
+        "respuesta": "b) Traducir código fuente a código máquina",
+        "incorrecta1": "a) Ejecutar código fuente línea por línea",
+        "incorrecta2": "c) Depurar errores en el código",
+        "incorrecta3": "d) Interpretar código para su ejecución"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es la principal diferencia entre un compilador y un intérprete? ",
+        "respuesta": "El compilador ejecuta el código directamente, mientras que el intérprete lo traduce línea por línea",
+        "incorrecta1": "El compilador es más rápido que el intérprete",
+        "incorrecta2": "El intérprete es más fácil de depurar que el compilador",
+        "incorrecta3": "No hay diferencia, ambos realizan las mismas tareas"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué es un thread en programación?",
+        "respuesta": "c) Una secuencia de instrucciones que se ejecutan de forma independiente",
+        "incorrecta1": "a) Un tipo de error en el código el cual se puede manejar a través de try catch",
+        "incorrecta2": "b) Una función recursiva que se llama a sí mismo",
+        "incorrecta3": "d) Un tipo de estructura de datos que sirve para manipular colecciones"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es el proceso principal de manejo de excepciones en Java? ",
+        "respuesta": "c) Captura de excepciones",
+        "incorrecta1": "a) Creación de excepciones y errores",
+        "incorrecta2": "b) Lanzamiento de excepciones y errores",
+        "incorrecta3": "d) Sincronización de excepciones"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué tecnología se utiliza comúnmente para conectarse a una base de datos desde una aplicación Java? ",
+        "respuesta": "b) JDBC",
+        "incorrecta1": "a) Sockets",
+        "incorrecta2": "c) HTML",
+        "incorrecta3": "d) CSS"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué estructura de datos sigue el principio LIFO (Last In, First Out)? ",
+        "respuesta": "a) Pila",
+        "incorrecta1": "b) Cola",
+        "incorrecta2": "c) Lista enlazada ",
+        "incorrecta3": "d) Árbol binario"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál de las siguientes estructuras de datos utiliza el principio FIFO (First In, First Out)?",
+        "respuesta": "b) Cola",
+        "incorrecta1": "a) Pila",
+        "incorrecta2": "c) Lista enlazada",
+        "incorrecta3": "d) Árbol binario"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué método se utiliza para agregar un elemento al final de una cola en C\\#?",
+        "respuesta": "c) Enqueue()",
+        "incorrecta1": "a) Push()",
+        "incorrecta2": "b) Pop()",
+        "incorrecta3": "d) Dequeue()"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué operación en una cola de prioridad en C\\# devuelve el elemento con la mayor prioridad sin eliminarlo de la cola?",
+        "respuesta": "d) Poll()",
+        "incorrecta1": "a) Enqueue()",
+        "incorrecta2": "b) Dequeue()",
+        "incorrecta3": "c) Peek()"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es la diferencia principal entre una pila y una cola de prioridad en C\\#?",
+        "respuesta": "c) Una cola de prioridad asigna una prioridad a cada elemento, mientras que una pila no.",
+        "incorrecta1": "a) Una pila sigue el principio FIFO, mientras que una cola de prioridad sigue el principio LIFO.",
+        "incorrecta2": "b) Una pila tiene un tamaño fijo, mientras que una cola de prioridad puede crecer dinámicamente.",
+        "incorrecta3": "d) Una pila utiliza una lista enlazada, mientras que una cola de prioridad utiliza un arreglo."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál de las siguientes es una dirección IP de clase B?",
+        "respuesta": "b) 172.16.0.1",
+        "incorrecta1": "a) 192.168.0.1",
+        "incorrecta2": "c) 10.0.0.1",
+        "incorrecta3": "d) 224.0.0.1"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué máscara de subred se utiliza típicamente para una red de clase C?",
+        "respuesta": "c) 255.255.255.0",
+        "incorrecta1": "a) 255.0.0.0",
+        "incorrecta2": "b) 255.255.0.0",
+        "incorrecta3": "d) 255.255.255.255"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué protocolo se utiliza para asignar automáticamente direcciones IP a los dispositivos en una red?",
+        "respuesta": "c) DHCP",
+        "incorrecta1": "a) DNS",
+        "incorrecta2": "b) HTTP",
+        "incorrecta3": "d) FTP"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué rango de direcciones IP se considera privado y no se enruta a través de Internet?",
+        "respuesta": "b) 192.168.0.0 - 192.168.255.255",
+        "incorrecta1": "a) 169.254.0.0 - 169.254.255.255",
+        "incorrecta2": "c) 224.0.0.0 - 239.255.255.255",
+        "incorrecta3": "d) 240.0.0.0 - 255.255.255.255"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué dirección IP se utiliza para la difusión (broadcast) en una red de clase C con la dirección de red 192.168?1.0?",
+        "respuesta": "d) 192.168.1.255",
+        "incorrecta1": "a) 192.168.1.0",
+        "incorrecta2": "b) 192.168.1.1",
+        "incorrecta3": "c) 192.168.1.254"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué dirección IP corresponde a una red de clase A?",
+        "respuesta": "a) 10.0.0.1",
+        "incorrecta1": "b) 172.31.255.255",
+        "incorrecta2": "c) 192.168.100.1",
+        "incorrecta3": "d) 224.0.0.1"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál de las siguientes es una característica principal de la topología en estrella?",
+        "respuesta": "c) Todos los nodos están conectados a un nodo central.",
+        "incorrecta1": "a) Todos los nodos están conectados a un único cable central.",
+        "incorrecta2": "b) Cada nodo está conectado directamente a todos los demás nodos.",
+        "incorrecta3": "d) Los nodos están conectados en un anillo cerrado."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué topología de red utiliza una configuración de anillo en la que los datos viajan en una única dirección?",
+        "respuesta": "c) Topología de anillo",
+        "incorrecta1": "a) Topología de estrella",
+        "incorrecta2": "b) Topología de bus",
+        "incorrecta3": "d) Topología de malla"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué topología es más adecuada para una red donde la redundancia y la tolerancia a fallos son cruciales?",
+        "respuesta": "d) Topología de malla",
+        "incorrecta1": "a) Topología de bus",
+        "incorrecta2": "b) Topología de anillo",
+        "incorrecta3": "c) Topología de estrella"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "En una topología de estrella, ¿qué sucede si el nodo central falla?",
+        "respuesta": "c) Toda la red se cae.",
+        "incorrecta1": "a) Toda la red sigue funcionando sin interrupciones.",
+        "incorrecta2": "b) Solo fallan los nodos directamente conectados al nodo central.",
+        "incorrecta3": "d) La red se convierte automáticamente en una topología de bus."
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es la longitud en bits de una dirección IPv4?",
+        "respuesta": "a) 2 bits",
+        "incorrecta1": "b) 64 bits",
+        "incorrecta2": "c) 128 bits",
+        "incorrecta3": "d) 256 bits"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál de las siguientes es una dirección IPv6 válida?",
+        "respuesta": "c) FE80::0202:B3FF:FE1E:8329",
+        "incorrecta1": "a) 192.168.1.1",
+        "incorrecta2": "b) 10.0.0.1",
+        "incorrecta3": "d) 172.16.0.1"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué notación se utiliza para representar las direcciones IPv6?",
+        "respuesta": "c) Hexadecimal con dos puntos",
+        "incorrecta1": "a) Decimal con puntos",
+        "incorrecta2": "b) Binaria",
+        "incorrecta3": "d) Octal"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuántos bits tiene una dirección IPv6?",
+        "respuesta": "c) 128 bits",
+        "incorrecta1": "a) 32 bits",
+        "incorrecta2": "b) 64 bits",
+        "incorrecta3": "d) 256 bits"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál es la longitud de una dirección MAC?",
+        "respuesta": "b) 48 bits",
+        "incorrecta1": "a) 32 bits",
+        "incorrecta2": "c) 64 bits",
+        "incorrecta3": "d) 128 bits"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué tecnología se utiliza para crear una red privada segura a través de una red pública como Internet?",
+        "respuesta": "b) VPN",
+        "incorrecta1": "a) VLAN",
+        "incorrecta2": "c) WLAN",
+        "incorrecta3": "d) LAN"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Si una PC no puede obtener una dirección IP automáticamente, ¿qué podría estar fallando en la red?",
+        "respuesta": "b) El servidor DHCP",
+        "incorrecta1": "a) El servidor DNS",
+        "incorrecta2": "c) El servidor FTP",
+        "incorrecta3": "d) El servidor HTTP"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "Si dos PCs en la misma red local no pueden comunicarse entre sí, ¿cuál de los siguientes comandos en la línea de comandos de Windows puede ayudar a identificar el problema?",
+        "respuesta": "d) Todas son correctas",
+        "incorrecta1": "a) ping",
+        "incorrecta2": "b) ipconfig",
+        "incorrecta3": "c) tracert"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuál de las siguientes configuraciones de dirección IP es válida para una red con la dirección 192.168?1.0/24?",
+        "respuesta": "c) Dirección IP: 192.168.1.10, Máscara de subred: 255.255.255.0",
+        "incorrecta1": "a) Dirección IP: 192.168.1.256, Máscara de subred: 255.255.255.0",
+        "incorrecta2": "b) Dirección IP: 192.168.2.1, Máscara de subred: 255.255.255.0",
+        "incorrecta3": "d) Dirección IP: 10.0.0.1, Máscara de subred: 255.0.0.0"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Cuántas subredes y hosts por subred se pueden obtener si se usa una máscara de subred 255.255.255.192 en una red clase C?",
+        "respuesta": "b) 4 subredes, 62 hosts por subred",
+        "incorrecta1": "a) 2 subredes, 126 hosts por subred",
+        "incorrecta2": "c) 6 subredes, 30 hosts por subred",
+        "incorrecta3": "d) 8 subredes, 14 hosts por subred"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": "¿Qué indica una respuesta exitosa del comando ping?",
+        "respuesta": "c) Hay conectividad entre los dispositivos",
+        "incorrecta1": "a) La dirección IP está configurada incorrectamente",
+        "incorrecta2": "b) La red está congestionada",
+        "incorrecta3": "d) El dispositivo de destino está apagado"
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    },
+    {
+        "categoria": "Teoria Tecnologia de la Informacion",
+        "pregunta": " ",
+        "respuesta": " ",
+        "incorrecta1": " ",
+        "incorrecta2": " ",
+        "incorrecta3": " "
+    }
+]
